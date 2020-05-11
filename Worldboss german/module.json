@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "WBH",
+    "author": "Nekoo | Owyn",
+    "description": "WBH",
+    "options": {
+        "niceName": "WBH",
+        "guiName": "WBH"
+    },
+    "servers": [""]
+}
