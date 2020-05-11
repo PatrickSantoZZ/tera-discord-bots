@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "LFG",
+    "author": "Neko",
+    "description": "LFG",
+    "options": {
+        "niceName": "LFG",
+        "guiName": "LFG"
+    },
+    "servers": [""]
+}
